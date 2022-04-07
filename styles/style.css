@@ -1,0 +1,23 @@
+body {
+    background-color: #1d2127;
+    color: #ffff;
+    font-family: "overpass Mono", 'Courier New', Courier, monospace;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+}
+
+.navbar {
+    background-color: #464b55;
+    padding: 10px;
+    display: flex;
+}
+
+.logo {
+    width: 50px;
+    
+}
